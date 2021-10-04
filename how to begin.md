@@ -10,15 +10,15 @@
 3. 윈도우 명령 프롬프트 열기
 
 4. 윈도우 명령 프롬프트에 명령어 입력
-git clone 링크
-dir 
-cd 레파지토리명/
-dir
-type NUL > file1.md
-git status
-git add *
-git status
-git push
+- git clone 링크
+- dir 
+- cd 레파지토리명/
+- dir
+- type NUL > file1.md
+- git status
+- git add *
+- git status
+- git push
 
 5. git token 만들기
 - Settings -> Developer settings -> Personal access tokens -> Generate new token -> 토큰 만든 후 복사
@@ -28,5 +28,5 @@ git push
 ![image](https://user-images.githubusercontent.com/91897703/135881140-663c58a7-0044-44f3-9a34-217add2da7a3.png)
 
 7. 윈도우 명령 프롬프트에 명령어 입력
-git push
+- git push
 
